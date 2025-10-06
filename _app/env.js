@@ -1,0 +1,1 @@
+export const env={"PUBLIC_HELLO_EMAIL":"info@studio.com","PUBLIC_VAT_NUMBER":"12345678910"}
