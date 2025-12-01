@@ -1,0 +1,13 @@
+<!-- TODO: contact form with 2 sections (@see aid-ly.org/it/contacts):
+ - Richiedi Appuntamento
+	- Nome
+	- Tipologia (neurofeedback/fotobiomodulazione), altro
+	-> Rimanda a whatsapp con il messaggio precompilato (chiedi come deve essere formattato)
+ - Chiedi Informazioni
+	- Tipologia di richiesta
+		- Neurofeedback/fotobiomodulazione
+			- Informazioni generali
+			- Noleggia dispositivo
+		- Altro
+	-> Rimanda ad email con il messaggio precompilato (chiedi come deve essere formattato)
+-->
