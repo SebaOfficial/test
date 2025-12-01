@@ -1,1 +1,1 @@
-export const env={"PUBLIC_BLOG_ARTICLES_PER_PAGE":"4","PUBLIC_DEFAULT_LOCALE":"it-IT","PUBLIC_BASE_URL":"https://test.racca.me","PUBLIC_VAT_NUMBER":"1244555334232","PUBLIC_HELLO_EMAIL":"ciao@example.com"}
+export const env={"PUBLIC_BLOG_ARTICLES_PER_PAGE":"4","PUBLIC_DEFAULT_LOCALE":"it-IT","PUBLIC_BASE_URL":"https://studio-lisi.racca.me","PUBLIC_VAT_NUMBER":"1244555334232","PUBLIC_HELLO_EMAIL":"ciao@example.com"}
