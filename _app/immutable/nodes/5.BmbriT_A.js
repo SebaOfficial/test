@@ -1,1 +1,0 @@
-import"../chunks/DAC7LG0P.js";import{p as g,a as i,i as t,l as e}from"../chunks/XU1u-p4b.js";import{P as n}from"../chunks/D8GZDLDF.js";function m(r,a){g(a,!0);const o=e(()=>a.data.articles),s=e(()=>a.data.totalPages);n(r,{get articles(){return t(o)},currentPage:1,get totalPages(){return t(s)},paginationTemplateHref:"/blog/page/:page"}),i()}export{m as component};
